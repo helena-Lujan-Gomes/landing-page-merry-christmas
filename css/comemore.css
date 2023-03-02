@@ -1,0 +1,65 @@
+.comemore-bg {
+  background-color: #f7c7b9;
+}
+
+.comemore-img {
+  width: 400px;
+  height: 400px;
+}
+
+.comemore-descricao {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.comemore-descricao h2 {
+  display: block;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #161212;
+  line-height: 3.25rem;
+  margin-bottom: 20px;
+}
+
+.comemore-descricao p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: #161212;
+  margin-bottom: 20px;
+}
+
+.comemore-descricao a {
+  color: #fff;
+  background-color: #da2535;
+  padding: 10px 5px;
+  width: 200px;
+  text-align: center;
+}
+
+@media (max-width:800px) {
+  .comemore {
+    display: block;
+    padding: 25px 0;
+  }
+
+  .comemore-descricao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15px;
+  }
+
+  .comemore-descricao h2 {
+    font-size: 2rem;
+    text-align: center;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+
+  .comemore-descricao p {
+    font-size: 1rem;
+    text-align: center;
+  }
+}

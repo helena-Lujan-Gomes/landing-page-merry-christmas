@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lista-icons {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.lista-icons li {
+  background-color: #f7c7b9;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+@media (max-width:800px) {
+  .footer {
+    justify-content: center;
+    padding: 30px 25px;
+  }
+
+  .footer-logo {
+    display: none;
+  }
+
+  .lista-icons {
+    justify-content: center;
+  }
+}
+

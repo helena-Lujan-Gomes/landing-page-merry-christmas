@@ -6,6 +6,6 @@
 
 -  Landing page criada durante a rotina de estudos 🔥🚀 
 - #️⃣prática #️⃣clean code #️⃣constância
-* **[Landing Page Merry Christmas ](https://helena-lujan-gomes.github.io/projeto-clinica-medica-life/)**
+* **[Landing Page Merry Christmas ](https://helena-lujan-gomes.github.io/landing-page-merry-christmas/)**
 
 
